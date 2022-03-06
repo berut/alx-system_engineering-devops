@@ -1,2 +1,5 @@
 #!/bin/bash
-file -Cm school.mgc
+0 string SCHOOL School data !:mime School
+chmod u+x school.mgc
+file Cm school.mgc
+file -m school.mgc*
